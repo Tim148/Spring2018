@@ -16,14 +16,14 @@ These are books that will be a great source of knowledge for the
 various teams. I will suggest for teams to purchase or borrow some of
 these.
 
-- Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams by Mickey W. Mantle and Ron Lichty
-- Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco and Tim Lister
-- The Mythical Man-Month: Essays on Software Engineering by Frederic P. Brooks Jr.
-- Software Requirements by Karl Wiegers and Joy Beatty
-- Code Complete: A Practical Handbook of Software Construction by Steve McConnell
-- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas
-- The Best Software Writing I by Joel Spolsky (Editor)
-- The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond
+1. Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams by Mickey W. Mantle and Ron Lichty
+2. Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco and Tim Lister
+3. The Mythical Man-Month: Essays on Software Engineering by Frederic P. Brooks Jr.
+4. Software Requirements by Karl Wiegers and Joy Beatty
+5. Code Complete: A Practical Handbook of Software Construction by Steve McConnell
+6. The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas
+7. The Best Software Writing I by Joel Spolsky (Editor)
+8. The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond
 
 ** Additional Material
 Papes, blog posts, etc. will be listed here.
