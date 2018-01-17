@@ -26,7 +26,7 @@ these.
 8. The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond
 
 ** Additional Material
-Papes, blog posts, etc. will be listed here.
+Papers, blog posts, etc. will be listed here.
 
 I recommend that you subscribe to [[http://www.se-radio.net/][Software Engineering Radio]]. There
 are several great episodes that directly relate to things we will
@@ -34,15 +34,19 @@ cover in class, and many more to things we will not cover.
 
 * Lectures
 There are no mandatory lectures. Any lecture notes will be made
-available here. I suggest that the class discusses how to ensure class
+available [[lectures][here]]. I suggest that the class discusses how to ensure class
 notes are made, and publish in this GitHub repo.
 
-All lecture information is posted [[lectures][here]].
+All lecture information is posted [[lectures][here]]. Expect the full lecture
+planning to be ready in time for Lecture 3, after we know more
+about what will be covered by the seminars (see below).
 
 * Seminars
 Seminars are mandatory. Failure to attend a seminar must be
 compensated through other means. What that means in practise will
 depend on the seminar, and how each team chooses to run a seminar.
+/In the very least, it will mean answering an extra requirement at
+the exam./
 
 Each seminar is /two hours/. Thus, four-hour slots in the schedule
 represent /two/ seminars running back-to-back.
@@ -55,14 +59,17 @@ In Spring 2018, I expect there to be about nine seminars on the course.
 * How to Interact with the Teaching Staff
 There are three channels of communication for this course, /none
 of which is email/. Because of the volume of email that I am
-getting, *email is a lossy channel* for me.
+getting these days, *email is a lossy channel* for me.
+
+Note that I will use email via the Student Portal to broadcast
+information when needed.
 
 ** GitHub
-All information from teachers, all teams' projects, individual work
-etc. will be posted and/or handed in via GitHub. As you are reading
-this, you already have the link. We will use GitHub features such as
-issues, pull requests and projects to manage the course, and
-communicate.
+All information from teachers, all teams' projects, individual
+work etc. will be posted and/or handed in via GitHub. As you are
+reading this, you already have the link here. We will use GitHub
+features such as issues, pull requests and projects to manage the
+course, and communicate.
 
 ** Slack Workspace
 A Slack Workspace exists for quick interaction:
@@ -79,19 +86,21 @@ most days, my schedule is a bit erratic and I run around quite a bit.
 I recommend finding me on slack to confirm availability and
 suitability before showing up.
 
-* ECTS Credits (Högskolepoäng)
-
-The course is worth 5 HP (ECTS credits), distributed like this:
+* Credits and Examination
+** ECTS Credits (Högskolepoäng)
+This course is worth 5 HP (ECTS credits), distributed like this:
 
 1. 2 HP for the /exam/
 2. 3 HP for the /project/
 
-* The Project
+The final grade will be controlled by the exam.
 
-You will be divided into groups of about 4 students. Each group
-will pick a topic from the course syllabus, and investigate it
-deeply. How you choose to conduct your investigation is up to you.
-Consult research papers, books, government reports, conduct
+** The Project
+
+Students will be divided into groups of about 4 students. Each
+group will pick a topic from the course syllabus, and investigate
+it deeply. How you choose to conduct your investigation is up to
+you. Consult research papers, books, government reports, conduct
 interviews, etc. Based on this investigation:
 
 1. formulate /learning objectives/ for the other students on the course;
@@ -112,12 +121,15 @@ you want to record a video lecture, "force" students to view it,
 and then run a flipped-classroom style exercise as assessment,
 that would work just fine. *Be creative.*
 
-Each student is supposed to spend 80 hours on this part of the
-course, meaning that a team of four students should spend 320
-hours. It is expected that a significant portion of time is spent
-on communication and coordination.
+Each student is supposed to spend 80 hours (the equivalent of 3
+HP) on this part of the course, meaning that a team of four
+students should spend 320 hours. It is expected that a significant
+portion of time is spent on communication and coordination.
 
-** Deliverables
+The remaining 53 hours of the course are supposed to be spent on
+attending and preparing for lectures and seminars.
+
+*** Deliverables
 During the project, I expect the following hand-ins.
 
 1. A written pitch of learning outcomes
@@ -134,9 +146,17 @@ While I will strive to respond immediately, you should expect a
 response time of 48 hours on pitches. Avoiud putting yourself in a
 position where you end up blocking for a reply from me.
 
+*** Examination during the project
+The head teacher or a teaching assistant will supervise all
+knowledge transfer seminars, and are ultimately responsible to
+make sure that each team covers a relevant topic, the quality of
+the learning objectives, the quality of the knowledge transfer and
+the assessment. For example, if one group does a terrible job on
+requirements engineering, it will be the head teacher's job to
+compensate and ensure that requirements engineering is still
+covered to a suitable extent in the course.
 
-* The Exam
-
+** The Exam
 The exam will be carried out in the form of a /take-home exam/.
 That means that you will be judged on your abilities to express
 yourself clearly and correctly in written form, in addition to the
