@@ -14,7 +14,7 @@ edition). Don't buy older editions as the field moves forward rapidly.
 ** Additional Books
 These are books that will be a great source of knowledge for the
 various teams. I will suggest for teams to purchase or borrow some of
-these.
+these. (The book list is unordered. Numbers are for ease of reference.)
 
 1. Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams by Mickey W. Mantle and Ron Lichty
 2. Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco and Tim Lister
@@ -24,6 +24,9 @@ these.
 6. The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas
 7. The Best Software Writing I by Joel Spolsky (Editor)
 8. The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond
+9. Software Architecture in Practice, by Len Bass, Paul Clements and Rick Kazman
+10. Code Quality: The Open Source Perspective, by Diomidis Spinellis
+11. The Art of Readable Code, by Dustin Boswell and Trevor Foucher
 
 ** Additional Material
 Papers, blog posts, etc. will be listed here.
