@@ -1,0 +1,71 @@
+#+title: Course Information 
+
+* Reading Material 
+** Course Book
+To ensure a broad coverage of a wide variety of topics, the course
+uses Ian Sommerville's book /Software Engineering/ (10th
+edition). Don't buy older editions as the field moves forward rapidly. 
+
+** Additional Books
+These are books that will be a great source of knowledge for the
+various teams. I will suggest for teams to purchase or borrow some of
+these.
+
+- Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams by Mickey W. Mantle and Ron Lichty 
+- Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco and Tim Lister
+- The Mythical Man-Month: Essays on Software Engineering by Frederic P. Brooks Jr. 
+- Software Requirements by Karl Wiegers and Joy Beatty
+- Code Complete: A Practical Handbook of Software Construction by Steve McConnell 
+- The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas 
+- The Best Software Writing I by Joel Spolsky (Editor)
+- The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary by Eric S. Raymond
+
+** Additional Material
+Papes, blog posts, etc. will be listed here. 
+
+I recommend that you subscribe to [[http://www.se-radio.net/][Software Engineering Radio]]. There
+are several great episodes that directly relate to things we will
+cover in class, and many more to things we will not cover.
+
+* Lectures
+There are no mandatory lectures. Any lecture notes will be made
+available here. I suggest that the class discusses how to ensure class
+notes are made, and publish here. 
+
+* Seminars
+Seminars are mandatory. Failure to attend a seminar must be
+compensated through other means. What that means in practise will
+depend on the seminar, and how each team chooses to run a seminar.
+
+Each seminar is /two hours/. Thus, four-hour slots in the schedule
+represent /two/ seminars running back-to-back. 
+
+There is *one* exception: seminar one is run /twice/ back-to-back with
+only half of the class present. 
+
+In Spring 2017, I expect there to be about nine seminars on the course. 
+
+* How to Interact with the Teaching Staff
+There are three channels of communication for this course, /non of which is email/.
+
+** GitHub 
+All information from teachers, all teams' projects, individual work
+etc. will be posted and/or handed in via GitHub. As you are reading
+this, you already have the link. We will use GitHub features such as
+issues, pull requests and projects to manage the course, and
+communicate.
+
+** Slack Workspace
+A Slack Workspace exists for quick interaction:
+[[http://1dl251.slack.com][http://1dl251.slack.com]]. I recommend installing a desktop app and a
+mobile app for Slack, but maybe I'm just too old school.
+
+I encourage each team to create their own channels on this Slack
+workspace. Feel free to invite me to channels too.
+
+** Physical Meetings
+I will try to predominently schedule physical meetings in conjunction
+with lectures and seminars. My office is 1356 and while I am there
+most days, my schedule is a bit erratic and I run around quite a bit.
+I recommend finding me on slack to confirm availability and
+suitability before showing up.

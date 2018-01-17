@@ -1,0 +1,17 @@
+#+title: Seminar 1: Introduction to how to run seminars
+
+Information TBA. This seminar serves two purposes:
+
+1. Meta: How to run seminars (by example)
+2. Topic: What kind of programmer are you? 
+
+Not all programmers are equal. This is of course true from several
+standpoints, but here we focus on two key issues for running software
+projects: staffing, and planning. 
+
+We will discuss how there can possibly be a 10-25 factor in
+productivity /difference/ between different programmers, go through
+some meaningful categories of programmers following models both with
+scientific base and without. We will try to understand what kind of
+programmers we are, what kinds of mixes of people a team needs to
+function, etc. 
