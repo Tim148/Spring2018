@@ -94,18 +94,19 @@ deeply. How you choose to conduct your investigation is up to you.
 Consult research papers, books, government reports, conduct
 interviews, etc. Based on this investigation:
 
-a. formulate /learning objectives/ for the other students on the course;
-b. design a means to do /knowledge transfer/ to the other students (e.g. through a seminar);
-c. design a method to /assess/ that students fulfil the learning objectives;
-d. /execute the knowledge transfer/ (e.g., run a seminar);
-e. /carry out assessment/ (e.g., on the seminar, or as part of the course exam); and based on all the activities above
-f. write a /post-mortem report/ on your process.
+1.) formulate /learning objectives/ for the other students on the course;
+2.) design a means to do /knowledge transfer/ to the other students (e.g. through a seminar);
+3.) design a method to /assess/ that students fulfil the learning objectives;
+4.) /execute the knowledge transfer/ (e.g., run a seminar);
+5.) /carry out assessment/ (e.g., on the seminar, or as part of the course exam); and based on all the activities above
+6.) write a /post-mortem report/ on your process.
 
-Stepa a--e) above must be carried out in order. Ideally, you make
-notes for f) continuously, but carry out the bulk of the work last.
+Steps 1--5.) above must be carried out in order. Ideally, you make
+notes for 6.) continuously, but carry out the bulk of the work
+last.
 
 The seminar slots on the course are intended for your performing
-of d) and e) above, but just because they are called seminars in
+of 4.) and 5.) above, but just because they are called seminars in
 the schedule, they need not be performed as such. For example, if
 you want to record a video lecture, "force" students to view it,
 and then run a flipped-classroom style exercise as assessment,
@@ -116,16 +117,31 @@ course, meaning that a team of four students should spend 320
 hours. It is expected that a significant portion of time is spent
 on communication and coordination.
 
+** Deliverables
+1. A written pitch of learning outcomes
+2. A written pitch of knowledge transfer event and corresponding assessment
+3. A written account of the assessment of all students with results
+4. Post mortem report
+
+All of the above are to be handed in through GitHub. You are
+allowed to use any plain text format that is rendered in the
+GitHub interface, such as GitHub-flavoured markdown, or org-mode.
+
 
 * The Exam
 
 The exam will be carried out in the form of a /take-home exam/.
-That means that you will be judged also on your abilities to
-express yourself clearly and correctly in writing, in addition to
-the subject of the course.
+That means that you will be judged on your abilities to express
+yourself clearly and correctly in written form, in addition to the
+subject of the course.
 
-*A student that has passed all teams' assessments will
-automatically pass the exam.* Each missed knowledge transfer event
+First, note that a student that attended all different teams
+knowledge transfer events and passed all corresponding assessments
+*automatically passes exam*. Each missed knowledge transfer event
 and/or failed assessment adds a corresponding requirement on the
 exam. There may or may not be a 1-1 mapping between requirements
 and exam questions.
+
+The take-home exam is only open to students who actively
+participated in the course in 2018. Old students will instead do
+an exam following previous instalments of this course.
