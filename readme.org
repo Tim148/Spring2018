@@ -37,6 +37,8 @@ There are no mandatory lectures. Any lecture notes will be made
 available here. I suggest that the class discusses how to ensure class
 notes are made, and publish here.
 
+All lecture information is posted [[lectures][here]].
+
 * Seminars
 Seminars are mandatory. Failure to attend a seminar must be
 compensated through other means. What that means in practise will
@@ -45,13 +47,15 @@ depend on the seminar, and how each team chooses to run a seminar.
 Each seminar is /two hours/. Thus, four-hour slots in the schedule
 represent /two/ seminars running back-to-back.
 
-There is *one* exception: seminar one is run /twice/ back-to-back with
+There is *one* exception: [[seminars/seminar-01.org][seminar one]] is run /twice/ back-to-back with
 only half of the class present.
 
 In Spring 2017, I expect there to be about nine seminars on the course.
 
 * How to Interact with the Teaching Staff
-There are three channels of communication for this course, /non of which is email/.
+There are three channels of communication for this course, /none
+of which is email/. Because of the volume of email that I am
+getting, *email is a lossy channel* for me.
 
 ** GitHub
 All information from teachers, all teams' projects, individual work
