@@ -27,6 +27,7 @@ these. (The book list is unordered. Numbers are for ease of reference.)
 9. Software Architecture in Practice, by Len Bass, Paul Clements and Rick Kazman
 10. Code Quality: The Open Source Perspective, by Diomidis Spinellis
 11. The Art of Readable Code, by Dustin Boswell and Trevor Foucher
+12. The Psychology of Computer Programming, by Gerald M. Weinberg
 
 ** Additional Material
 Papers, blog posts, etc. will be listed here.
@@ -102,9 +103,10 @@ The final grade will be controlled by the exam.
 
 Students will be divided into groups of about 4 students. Each
 group will pick a topic from the course syllabus, and investigate
-it deeply. How you choose to conduct your investigation is up to
-you. Consult research papers, books, government reports, conduct
-interviews, etc. Based on this investigation:
+it deeply (as in beyond what's in Sommerville). How you choose to
+conduct your investigation is up to you. Consult research papers,
+books, government reports, conduct interviews with software
+professionals, etc. Based on this investigation:
 
 1. formulate /learning objectives/ for the other students on the course;
 2. design a means to do /knowledge transfer/ to the other students (e.g. through a seminar);

@@ -1,1 +1,32 @@
 #+title: Lecture 1
+
+* Introduction to the Course
+** Head Teacher
+- Tobias Wrigstad
+- Senior Lecturer
+** Teaching Assistant
+- TBA
+** General Course Information
+- Slack Channel
+- GitHub pages
+- Credits
+- Project
+- Exam
+- Why we run the course like this
+- Why there is no software project
+- What do I mean by knowledge transfer event?
+- What do I mean by assessment?
+** The Result of the Survey
+- Tobias presents the result of the survey
+- What is Software Engineering?
+- Do you need to know how to program to manage a software project?
+- Who in here wants to be a manager? What motivates you? Who is a programmer?
+- We discuss the various aspects of SE
+- What is missing?
+*** What do you want out of the course?
+- Run as bee hives
+- Move to discuss in whole class
+*** What do you want me to do?
+* Initial Project Forming
+- Can we form some groups already now?
+- Not necessary that all groups are full (may add students later)
