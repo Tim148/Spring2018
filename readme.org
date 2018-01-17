@@ -8,7 +8,7 @@ more than once.
 * Reading Material
 ** Course Book
 To ensure a broad coverage of a wide variety of topics, the course
-uses Ian Sommerville's book /Software Engineering/ (10th
+uses Ian Sommerville's book [[http://software-engineering-book.com/][Software Engineering]] (10th
 edition). Don't buy older editions as the field moves forward rapidly.
 
 ** Additional Books
@@ -35,7 +35,7 @@ cover in class, and many more to things we will not cover.
 * Lectures
 There are no mandatory lectures. Any lecture notes will be made
 available here. I suggest that the class discusses how to ensure class
-notes are made, and publish here.
+notes are made, and publish in this GitHub repo.
 
 All lecture information is posted [[lectures][here]].
 
@@ -94,17 +94,12 @@ deeply. How you choose to conduct your investigation is up to you.
 Consult research papers, books, government reports, conduct
 interviews, etc. Based on this investigation:
 
-1.) formulate /learning objectives/ for the other students on the course;
-
-2.) design a means to do /knowledge transfer/ to the other students (e.g. through a seminar);
-
-3.) design a method to /assess/ that students fulfil the learning objectives;
-
-4.) /execute the knowledge transfer/ (e.g., run a seminar);
-
-5.) /carry out assessment/ (e.g., on the seminar, or as part of the course exam); and based on all the activities above
-
-6.) write a /post-mortem report/ on your process.
+1. formulate /learning objectives/ for the other students on the course;
+2. design a means to do /knowledge transfer/ to the other students (e.g. through a seminar);
+3. design a method to /assess/ that students fulfil the learning objectives;
+4. /execute the knowledge transfer/ (e.g., run a seminar);
+5. /carry out assessment/ (e.g., on the seminar, or as part of the course exam); and based on all the activities above
+6. write a /post-mortem report/ on your process.
 
 Steps 1--5.) above must be carried out in order. Ideally, you make
 notes for 6.) continuously, but carry out the bulk of the work
@@ -123,14 +118,21 @@ hours. It is expected that a significant portion of time is spent
 on communication and coordination.
 
 ** Deliverables
+During the project, I expect the following hand-ins.
+
 1. A written pitch of learning outcomes
 2. A written pitch of knowledge transfer event and corresponding assessment
 3. A written account of the assessment of all students with results
 4. Post mortem report
 
-All of the above are to be handed in through GitHub. You are
+*All of the above are to be handed in through GitHub.* You are
 allowed to use any plain text format that is rendered in the
 GitHub interface, such as GitHub-flavoured markdown, or org-mode.
+Don't upload Word or PDF documents and expect them to be read.
+
+While I will strive to respond immediately, you should expect a
+response time of 48 hours on pitches. Avoiud putting yourself in a
+position where you end up blocking for a reply from me.
 
 
 * The Exam
