@@ -78,3 +78,54 @@ with lectures and seminars. My office is 1356 and while I am there
 most days, my schedule is a bit erratic and I run around quite a bit.
 I recommend finding me on slack to confirm availability and
 suitability before showing up.
+
+* ECTS Credits (Högskolepoäng)
+
+The course is worth 5 HP (ECTS credits), distributed like this:
+
+1. 2 HP for the /exam/
+2. 3 HP for the /project/
+
+* The Project
+
+You will be divided into groups of about 4 students. Each group
+will pick a topic from the course syllabus, and investigate it
+deeply. How you choose to conduct your investigation is up to you.
+Consult research papers, books, government reports, conduct
+interviews, etc. Based on this investigation:
+
+a. formulate /learning objectives/ for the other students on the course;
+b. design a means to do /knowledge transfer/ to the other students (e.g. through a seminar);
+c. design a method to /assess/ that students fulfil the learning objectives;
+d. /execute the knowledge transfer/ (e.g., run a seminar);
+e. /carry out assessment/ (e.g., on the seminar, or as part of the course exam); and based on all the activities above
+f. write a /post-mortem report/ on your process.
+
+Stepa a--e) above must be carried out in order. Ideally, you make
+notes for f) continuously, but carry out the bulk of the work last.
+
+The seminar slots on the course are intended for your performing
+of d) and e) above, but just because they are called seminars in
+the schedule, they need not be performed as such. For example, if
+you want to record a video lecture, "force" students to view it,
+and then run a flipped-classroom style exercise as assessment,
+that would work just fine. *Be creative.*
+
+Each student is supposed to spend 80 hours on this part of the
+course, meaning that a team of four students should spend 320
+hours. It is expected that a significant portion of time is spent
+on communication and coordination.
+
+
+* The Exam
+
+The exam will be carried out in the form of a /take-home exam/.
+That means that you will be judged also on your abilities to
+express yourself clearly and correctly in writing, in addition to
+the subject of the course.
+
+*A student that has passed all teams' assessments will
+automatically pass the exam.* Each missed knowledge transfer event
+and/or failed assessment adds a corresponding requirement on the
+exam. There may or may not be a 1-1 mapping between requirements
+and exam questions.
