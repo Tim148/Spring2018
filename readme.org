@@ -159,6 +159,17 @@ requirements engineering, it will be the head teacher's job to
 compensate and ensure that requirements engineering is still
 covered to a suitable extent in the course.
 
+*** Getting Voted off the Island
+Project work only works if everyone pulls their weight. To this
+end, a non-functioning team member may be "voted off the island"
+by the rest of the group. If this happens, talk to me ASAP to
+resolve the issue and see how we may move forward. What happens to
+a team member that gets kicked off a team will be dealt with on a
+case-per-case basis.
+
+Team members of a failed project are welcome back next time the
+course runs.
+
 ** The Exam
 The exam will be carried out in the form of a /take-home exam/.
 That means that you will be judged on your abilities to express
@@ -175,3 +186,8 @@ and exam questions.
 The take-home exam is only open to students who actively
 participated in the course in 2018. Old students will instead do
 an exam following previous instalments of this course.
+
+* Important Dates & Schedule
+- Schedule in TimeEdit as usual: [[https://se.timeedit.net/web/uu/db1/schema/ri1XZ0g73560Y7QQ0YZ6705Y0oy000Q6p7550Q562v52QZ.html][click here]].
+- Sign up to do the project: 22/1 2018
+- Take-home exam: 13/3 (TBC)
