@@ -3,12 +3,11 @@
 * Introduction to the Course
 ** Head Teacher
 - Tobias Wrigstad
-- Senior Lecturer
 ** Teaching Assistant
 - TBA
 ** General Course Information
-- Slack Channel
-- GitHub pages
+- Slack Channel (1DL251.slack.com)
+- GitHub pages (github.com/1DL251/Spring2018)
 - Credits
 - Project
 - Exam

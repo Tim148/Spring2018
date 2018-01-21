@@ -1,0 +1,10 @@
+#+title: Lecture 3
+
+* Tobias goes through the design process of seminar 1 (~20 minutes)
+- Notably it lacked assessment, but that was a strength in this particular case
+* Pick up where we left: Risk Management (~15 minutes)
+- We go through the result of the risk management assignment that the students made on Friday 18/1
+* Continue with Lecture 2, "Project Management"
+* Discussion of group forming
+- Who assigns groups?
+- Size of groups

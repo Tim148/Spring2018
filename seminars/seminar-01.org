@@ -1,17 +1,81 @@
 #+title: Seminar 1: Introduction to how to run seminars
 
-Information TBA. This seminar serves two purposes:
+* Constraints
+- 20 participants
+- 2 hours including setup and teardown
+- Most students have little insight into the topic yet (I am guessing)
+* Risks
+- Students don't take the exercises seriously (Low, Catastrophical)
+  Avoidance: ask them to take it seriously, motivate it
+  Mitigation: none
+- Trains from Stockholm runs late (Medium, Severe)
+  Avoidance: take an earlier train
+  Mitigation: move students over to 2nd seminar
+- All students want to focus on exactly the same things (Low, Moderate)
+  Avoidance: ask for 3 topics from each person
+  Mitigation: form several groups with different aspects of same topic, compensate with lectures covering other things
+- No students want to focus on exactly the same things (Low, Moderate)
+  Avoidance: ask for 3 topics from each person
+  Mitigation: build clusters of several topics, but one level of abstraction up
+- Students don't know what they want out of the course (High, Tolerable)
+  Avoidance: start their thinking about this using input survey, also first lecture
+  Mitigation: Share on the whiteboard early on, Seminar is really about how to run seminars
+- Students don't know enough of the subject to pick what they are interested in (High, Tolerable)
+  Avoidance: start project later in the course (not doing that)
+  Mitigation: Tobias to add topics, Tobias to help extrapolating topics from "what do you want" questions
+- We run out of time (High, Severe)
+  Avoidance: use a timer to time events, plan time conservatively
+  Mitigation: finish during 3rd lecture
+* Outcome
+- The seminar serves two purposes:
+  1) Instruct in the art of running a successful seminar
+  2) Take the second-last step in group forming
 
-1. Meta: How to run seminars (by example)
-2. Topic: What kind of programmer are you? 
+With respect to 1)
+- Go through the design of the seminar
+  * Risk planning
+  * Intended outcome
+  * Constraints
+  * Design choices motivated by constraints and risk
+  * Designing to avoid domination by a single person
 
-Not all programmers are equal. This is of course true from several
-standpoints, but here we focus on two key issues for running software
-projects: staffing, and planning. 
-
-We will discuss how there can possibly be a 10-25 factor in
-productivity /difference/ between different programmers, go through
-some meaningful categories of programmers following models both with
-scientific base and without. We will try to understand what kind of
-programmers we are, what kinds of mixes of people a team needs to
-function, etc. 
+Wity respect to 2)
+- Each student is forced to reflect on what s/he could possibly do as a project
+- Students may be inspired to other student's wants/ideas
+- Unrealistic brainstorming to free our minds (and maybe it is possible?!)
+* Process
+0. Annoint a scribe that records what happens
+1. Distribute post-its and pens, instruct students to always name their post-its
+2. Individually, write down 3 things you want out of this course -- you'll be forced to display them soon
+   Name your post-its
+3. Take your post-its, go to the whiteboard. State your name, your background, your coding expertise.
+   In best-first order, put your post-its up on the whiteboard, reading them as you go, and giving a 1-sentence explanation/motivation.
+4. Individually, write down 3 things you are interested in focussing on -- you'll be forced to display them soon
+5. In best-first order, put your post-its up on the whiteboard, reading them as you go, and giving a 1-sentence explanation/motivation.
+   Try to cluster similar post-its. Tobias will name clusters and form connections.
+6. Form groups (at least 3, at most 6) using the clusters
+7. In the groups, do the following:
+   - Make an ideal plan for how you can go deep
+   - Make a realistic plan for how you can go deep
+8. In the groups, do the following:
+   - Sketch at least three knowledge-transfer events (at least one of which must be realistic)
+9. In the groups, do the following:
+   - For each knowledge-transfer events, sketch a possible form of assessment
+   - Especially consider how we might deal with students that miss the seminar
+10. Tobias to dissect the process of how this seminar was designed -- move to lecture
+* Time-line
+- Seminar is 105 minutes, no break will be given
+| What                 | Start | Comment                                       |
+| Initial instruction  |  8:15 | Distribute material                           |
+| Individual: interest |  8:20 | 5 minutes                                     |
+| Put up post-its      |  8:25 | 1 minute per person                           |
+| Individual: go deep  |  8:40 | 5 minutes                                     |
+| Put up post-its      |  8:45 | 1 minute per person + 5 minutes on clustering |
+| Group forming        |  9:05 |                                               |
+| 1st group assignment |  9:10 | 10 minutes                                    |
+| Sharing              |  9:20 | 5 minutes                                     |
+| 2nd group assignment |  9:25 | 10 minutes                                    |
+| Sharing              |  9:35 | 5 minutes                                     |
+| 3rd group assignment |  9:40 | 10 minutes (this can be cut)                  |
+| Sharing              |  9:50 | 5 minutes                                     |
+| Closing up           |  9:55 | 5 minutes                                     |
