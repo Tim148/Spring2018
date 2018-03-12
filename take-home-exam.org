@@ -38,7 +38,26 @@ an exam hall with a bunch of books. You may use the Internet to
 search for preexisting information.
 
 * Instructions for the Take-Home Exam
-*TOPIC WILL BE MADE PUBLIC midnight tonight*
+Your task is to write an essay on the topic "Is software
+engineering engineering?" that demonstrates your insight in the
+topic as defined by the course book, and understanding of the
+software development life cycle. This topic came up multiple times
+in the course, so you should not be a stranger to this line of
+thought. Naturally, there might be parts of software engineering
+that in your mind fulfil the engineering criteria, so your stance
+might be complex or nuanced.
+
+In your essay, you must clearly state your position on this issue,
+and explain why. You must convincingly argue your position and
+discuss both arguments for and against it, and convincingly
+dismiss arguments against. 
+
+You do not need to argue your /actual position/, or even have one,
+but the essay should be firmly in one camp. I am examining your
+insights, knowledge and ability to express it -- not your
+position. Obviously, there is no right or wrong position here. The
+question acts as a driver whose purpose is to set you up so you
+can show off!
 
 ** Use of References
 You should feel very much encouraged to stand on the shoulders of
@@ -85,7 +104,36 @@ it as part of the essay, you do not, as far as I am concerned.
 be woven into the "story" of the essay./
 
 ** Instructions for Each Specific Seminar
-*WILL BE MADE PUBLIC midnight tonight*
+*** Gamification
+Is there a place for gamification in a software developing organisation? 
+Discuss the claim made during the seminar that agile methodologies like scrum can be described as applications of gamification to software development.
+Discuss the ethical implications of using gamification in software development to influence how a team works. 
+Is the inclusion of techniques like gamification at odds with engineering practises? 
+
+*** Refactoring
+Explain the concept of refactoring.
+Are there any necessary prerequisites to doing refactoring? 
+What are the risks of refactoring and what are the avoidance and mitigation strategies? 
+Does the existence of a "pattern language" for refactoring mean that the practise qualifies as engineering? 
+Discuss the benefits of refactoring on the final program (not code), on the team developing the program, and on the development process. 
+
+*** Teams
+At a non-trivial depth, discuss the role of /personality types/ when constructing a team, and how one might form a rigorous software engineering process surrounding the forming of teams (how could it work, criticise your idea). 
+Are personality types more or less relevant/important in different forms of teams, including /virtual teams/, /self-managed teams/, /temporary teams/ and /permanent teams/? 
+Complementary to personality types, discuss the pros and cons of /cross-functional teams/. 
+(Note that there are many different categories of personality types developed by different people.)
+
+*** Risk
+At a non-trivial depth, explain the /risk management cycle/ including what are/are the goals of /risk identification/, /risk analysis/, /risk planning/ and /risk monitoring/. 
+How important is risk management? 
+Who are involved in risk management in a software development project? 
+What effort should be spent on risk management in a project? 
+Discuss /risk avoidance/ vs. /risk mitigation/. 
+What are different forms of risks? 
+Is there anything to risk management that is not "just common sense"? 
+
+*** TDD
+Complete the assessment form from the TDD group as previously agreed upon. They will give me your answers and I will correct them. This is your last chance. 
 
 * Only Compensating for Missed Seminars, not Aiming for Higher Grade
 This changes the instructions for the take-home exam thusly: 
