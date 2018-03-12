@@ -1,9 +1,9 @@
 * Introduction
 First, note that if you 
-1) was part of a group running a seminar,
+1) were part of a group running a seminar,
 2) attended all seminars, and 
-3) participated in the assessment of all seminars, then
-you already passed the course with a grade of 3. In that case, you only need
+3) participated in the assessment of all seminars, 
+then you already passed the course with a grade of 3. In that case, you only need
 to do this take-home exam to get a higher grade (4 or 5).
 
 If you failed 1), there is no way for you to pass the course this semester. 
@@ -13,13 +13,15 @@ compensate for that as part of this take-home exam. See
 instructions below.
 
 ** Time-Limitation
-The take-home exam start 00:00 of 13/3 and runs for 36 hours. The deadline
-for handing in an exam is thus 14/3 at 12:00. Late submissions will not be considered. 
+The take-home exam starts 00:00:01 of 13/3 and runs for 36 hours.
+The deadline for handing in an exam is thus 14/3 at 12:00. Late
+submissions will not be considered.
 
 ** Handing In
 Hand-in your exam as a PDF by email to tobias.wrigstad@it.uu.se.
-Expect an eventual reply acknowledging receipt of your exam. *The
-subject of the email must be* =1DL251 EXAM= (in all caps).
+Expect a reply acknowledging receipt of your exam. Since this is a
+manual reply, it make take some time before you get it. *The
+subject of the hand-in email must be* =1DL251 EXAM= (in all caps).
 Otherwise, I may have trouble finding it.
 
 ** IMPORTANT
@@ -68,10 +70,10 @@ need to be explicit about what parts are compensating for a
 particular seminar, but you don't need to put them under a
 specific heading. For example, you could end your essay with an
 appendix listing what paragraphs and arguments in the main body of
-text compensate for missing each specific seminar. *I will not be
-searching for this information.* If you missed a seminar and it is
-not clear how you compensate for it as part of the essay, you do
-not, as far as I am concerned.
+text compensate for missing each specific seminar. 
+
+If you missed a seminar and it is not clear how you compensate for
+it as part of the essay, you do not, as far as I am concerned.
 
 ** Instructions for Each Specific Seminar
 *WILL BE MADE PUBLIC midnight tonight*
