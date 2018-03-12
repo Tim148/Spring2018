@@ -1,0 +1,88 @@
+* Introduction
+First, note that if you 
+1) was part of a group running a seminar,
+2) attended all seminars, and 
+3) participated in the assessment of all seminars, then
+you already passed the course with a grade of 3. In that case, you only need
+to do this take-home exam to get a higher grade (4 or 5).
+
+If you failed 1), there is no way for you to pass the course this semester. 
+
+If you failed 2) or 3) by missing up to 4 seminars, you can
+compensate for that as part of this take-home exam. See
+instructions below.
+
+** Time-Limitation
+The take-home exam start 00:00 of 13/3 and runs for 36 hours. The deadline
+for handing in an exam is thus 14/3 at 12:00. Late submissions will not be considered. 
+
+** Handing In
+Hand-in your exam as a PDF by email to tobias.wrigstad@it.uu.se.
+Expect an eventual reply acknowledging receipt of your exam. *The
+subject of the email must be* =1DL251 EXAM= (in all caps).
+Otherwise, I may have trouble finding it.
+
+** IMPORTANT
+A take-home exam is to be treated like a closed-book exam
+(salstenta). You are not allowed to collaborate with others, ask
+questions, solicit feedback, etc. Act as if you were locked into
+an exam hall with a bunch of books. You may use the Internet to
+search for preexisting information.
+
+* Instructions for the Take-Home Exam
+*TOPIC WILL BE MADE PUBLIC midnight tonight*
+
+** Use of References
+You should feel very much encouraged to stand on the shoulders of
+giants -- use references to support your arguments. However, note
+that a random person's blog or company website usually does not
+lend weight to your arguments. Be critical against your sources!
+
+Furthermore, the point of the exam is not for you to write an
+essay about what others think on this topic. A survey of what
+others think is not welcome. I want your argumentation, your
+thoughts, and your insights. 
+
+Follow some style guide to how to write references. A reference
+list has a certain format according to the style guide.
+
+Note that using text from other sources without explicit
+attribution is plagiarism, which may be considered grounds for
+suspension (or other measures) according to university laws.
+
+** Length Requirements
+The essay should be 12000 characters, plus/minus 2000 characters.
+This count excludes references. 
+
+** Formatting and Structure
+Your essay should look good. It should convey a feeling of wanting
+to be read. It needs structure (like a story), it needs to be
+divided into sections and subsections, and text in sections needs
+to be divided into paragraphs. It needs spell checking. Etc. 
+
+* Instructions for Compensating for Missed Seminars
+If you missed a seminar, you must incorporate that seminar into
+your take-home exam. For each missed seminar, I am expecting an
+additional 1000 characters (upping the limit and target). You need
+to be explicit about what part is compensating for a particular
+seminar, but you don't need to put that under a specific heading.
+For example, you could end your essay with a listing of what
+paragraphs and arguments compensate for missing each specific
+seminar. *I will not be searching for information.* If you missed
+a seminar and it is not clear how you compensate for it as part of
+the essay, you do not, as far as I am concerned.
+
+** Instructions for Each Specific Seminar
+*WILL BE MADE PUBLIC midnight tonight*
+
+* Only Compensating for Missed Seminars, not Aiming for Higher Grade
+This changes the instructions for the take-home exam thusly: 
+
+- The length requirement changes to 1000 characters plus an
+  additional 2000 characters for each missed seminar, meaning that
+  if you missed 2 seminars, I'm expecting an essay at around 5000
+  characters
+- My quality standard align with a grade level of 3 rather than 4
+  or 5, meaning for example that I'll accept poorer quality
+  argumentation, use of references, etc., and generally consider
+  presentation less than otherwise
